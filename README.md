@@ -1,4 +1,5 @@
-# Ultra EZ DNA-Seq with NuQuant Assay for Qubit
+# Ultra EZ DNA-Seq with NuQuant 
+# Qubit Assay Instructions (Instructions for Qubit Assay?)
 
 ![http://www.nugen.com](https://www.nugen.com/sites/default/files/logo_0.png)  
 [www.nugen.com](http://www.nugen.com)
