@@ -1,8 +1,8 @@
 # Ultra EZ DNA-Seq with NuQuant 
 # Qubit Assay Instructions (Instructions for Qubit Assay?)
 
-![http://www.nugen.com](https://www.nugen.com/sites/default/files/logo_0.png)  
-[www.nugen.com](http://www.nugen.com)
+![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
+[www.tecangenomics.com](http://www.tecangenomics.com)
 
 ## Downloading the application
 
@@ -41,7 +41,7 @@ If you wish to remove NuQuant, including the `UltraEZ` button from your Qubit ho
   2.	Once you press the `Update` button, a message will appear titled “Updating: Select Assay(s) to Delete”. Select `UltraEZ`. The *UltraEZ* line will turn gray, indicating it has been selected.
   3.	Click `OK`. 
   4.	Another window will appear with the message *“The selected assay(s) will be deleted. Do you wish to proceed?”*  Click `Yes`. 
-  5.	The “Updating firmware…” status bar will appear. After approximately 1 minute, the update will be complete and the NuGEN NuQuant app will have been removed.
+  5.	The “Updating firmware…” status bar will appear. After approximately 1 minute, the update will be complete and the Tecan NuQuant app will have been removed.
 
 ### Uninstalling NuQuant from Qubit 3.0 and Qubit 4
 
