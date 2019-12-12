@@ -1,8 +1,9 @@
 # Ultra EZ DNA-Seq with NuQuant 
-## Qubit Assay Instructions
 
-![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
+![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)
 [www.tecangenomics.com](http://www.tecangenomics.com)
+
+## Qubit Assay Instructions
 
 ## Downloading the application
 
@@ -14,7 +15,7 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
 
   1. After downloading the file `Qubit2UltraEZv1.qbt` from the above link, copy it to the root directory of a USB drive (do NOT place the `.qbt` file into a folder in the USB drive). 
      - **Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.
-  2.	Unplug the Qubit power source, insert the USB drive containing the `Qubit2UltraEZv1.qbt` file into the USB drive port of the Qubit® 2.0 Fluorometer, and plug the power back in.
+  2.	Unplug the Qubit power source, insert the USB drive containing the `Qubit2UltraEZv1.qbt` file into the USB drive port of the Qubit 2.0 Fluorometer, and plug the power back in.
   3.	You will see the message *"Qubit2UltraEZv1.qbt file detected. Do you wish to upload?"* Select `Yes`.
   4.	On the home screen you will now see a button marked `UltraEZ`. Select this to perform the NuQuant assay for UltraEZ library products.
 
@@ -23,7 +24,7 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
 
   1. After downloading the file `Qubit3and4UltraEZ.qbt` from the above link, copy it to the root directory of a USB drive (do NOT place the `.qbt` file into a folder in the USB drive). 
      - **Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.    
-  2. Insert the USB drive into the USB drive port of the Qubit® 3.0 or Qubit® 4 Fluorometer. 
+  2. Insert the USB drive into the USB drive port of the Qubit 3.0 or Qubit 4 Fluorometer. 
   3. Go to the Settings screen and touch `Import new assay`. The instrument searches the USB drive for the `.qbt` file and the Import new assay screen displays "UltraEZ NuQuant <version>" under Assay name.
   4. Touch to “UltraEZ NuQuant <version>” to select. It will become highlighted. Touch `Next`.
      - Option A: Select a destination folder for the new assay and touch `Save`. Each folder can hold up to 9 assays.
