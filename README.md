@@ -1,6 +1,7 @@
 # Ultra EZ DNA-Seq with NuQuant 
 
 ![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)
+
 [www.tecangenomics.com](http://www.tecangenomics.com)
 
 ## Qubit Assay Instructions
